@@ -97,11 +97,11 @@ Calculation
 <img width="464" height="781" alt="image" src="https://github.com/user-attachments/assets/dbd80aa6-dac9-4ec6-a0a6-26937e3b6b44" />
 
 
-Frequency Deviation Practical = 
+Frequency Deviation Practical = 3432
 
-Modulation Index Practical	= 
+Modulation Index Practical	= 6.7
 
-Modulation Index Theoretical	=
+Modulation Index Theoretical	= 6.6
 
 
 
